@@ -5,4 +5,10 @@ it faced significant losses in Latin America due to a lack of data-driven decisi
 and make decisions based on data during its annual strategic meeting. This move is in response to the success of their main competitor, Dell,
 which has a data analytics team and makes data-driven decisions.
 
+Tools uses:
+* Mqsql
+* Excel
+* Power bi
+
+Dashboard link: https://www.novypro.com/project/business-insights-360-22
 
